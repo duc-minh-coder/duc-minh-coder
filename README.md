@@ -18,6 +18,7 @@
 
 - ⚙️ Backend: **java**, **Spring Boot**, **MySql**, **MongoDB**
 - 🌐 Frontend: **ReactJS**, **SCSS**, **Tailwind CSS**
+- Khác: c++, python
 - 🧰 Công cụ: Git, VS Code, Postman, intellij, ...
 
 ---
