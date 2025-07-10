@@ -1,17 +1,42 @@
- # 👋 Hi, I'm Nguyen Duc Minh!
+<h1 align="center">👋 Xin chào! Mình là Đức Minh</h1>
 
-I'm wanna to become a Fullstack Developer 
-I love building web applications, exploring new technologies, and working on cool projects!
+<p align="center">
+  💻 Developer | 🌱 Đang học & phát triển | 🇻🇳 From Vietnam
+</p>
 
-## 🛠️ Tech Stack
-- ⚛️ Frontend: React, Scss Tailwind CSS
-- 🔧 Backend: Java, Spring Boot
-- 🗄️ Database: MongoDB, MySQL
+---
 
-## 📫 Connect with me
-- 📧 Email: minh1382005@gmail.com
-- 💼 LinkedIn: [Minh Nguyen](https://vn.linkedin.com/in/%C4%91%E1%BB%A9c-minh-nguy%E1%BB%85n)
+### 🚀 Vài điều về mình
 
-## ✨ Fun Facts
-- ☕ I can't live without coffee
- 
+- 🔭 Hiện đang học & thực hành phát triển ứng dụng web
+- 🎯 Mục tiêu: Làm chủ Fullstack Development và tham gia các dự án thực tế
+- 💡 Mình yêu thích UI đẹp, code sạch và hiệu năng tốt
+
+---
+
+### 🛠️ Tech Stack mình đang học
+
+- ⚙️ Backend: **java**, **Spring Boot**, **MySql**, **MongoDB**
+- 🌐 Frontend: **ReactJS**, **SCSS**, **Tailwind CSS**
+- 🧰 Công cụ: Git, VS Code, Postman, intellij, ...
+
+---
+
+### 📈 Thống kê GitHub của mình
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=duc-minh-coder&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duc-minh-coder&layout=compact&theme=gruvbox" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Kết nối với mình
+
+- 📧 Email: [mail](mailto:minh1382005@gmail.com)
+- 🧪 Dự án cá nhân: Đang trong quá trình build!
+
+---
+
+> 🧠 *"Không ngừng học hỏi - Không ngại thử thách!"*
