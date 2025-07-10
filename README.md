@@ -9,7 +9,7 @@ I love building web applications, exploring new technologies, and working on coo
 - 🗄️ Database: MongoDB, MySQL
 
 ## 📫 Connect with me
-- 📧 Email: minhnguyen.dev@gmail.com
+- 📧 Email: minh1382005@gmail.com
 - 💼 LinkedIn: [Minh Nguyen](https://vn.linkedin.com/in/%C4%91%E1%BB%A9c-minh-nguy%E1%BB%85n)
 
 ## ✨ Fun Facts
