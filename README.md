@@ -1,6 +1,6 @@
- # 👋 Hi, I'm Minh Nguyen!
+ # 👋 Hi, I'm Nguyen Duc Minh!
 
-I'm a passionate Fullstack Developer from Vietnam 🇻🇳  
+I'm wanna to become a Fullstack Developer 
 I love building web applications, exploring new technologies, and working on cool projects!
 
 ## 🛠️ Tech Stack
