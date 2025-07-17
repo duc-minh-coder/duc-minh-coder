@@ -26,8 +26,6 @@
 ### 📈 Thống kê GitHub của mình
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duc-minh-coder&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duc-minh-coder&layout=compact&theme=gruvbox" alt="Top Languages" />
 </p>
 
