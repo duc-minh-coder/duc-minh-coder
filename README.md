@@ -16,7 +16,7 @@
 
 ### 🛠️ Tech Stack mình đang học
 
-- ⚙️ Backend: **java**, **Spring Boot**, **MySql**, **MongoDB**
+- ⚙️ Backend: **java**, **Spring Boot**, **MySql**, **MongoDB**, **PostgreSql**
 - 🌐 Frontend: **ReactJS**, **SCSS**, **Tailwind CSS**
 - Khác: c++, python
 - 🧰 Công cụ: Git, VS Code, Postman, intellij, ...
@@ -26,7 +26,7 @@
 
 ### 📫 Kết nối với mình
 
-- 📧 Email: [mail](mailto:minh1382005@gmail.com)
+- 📧 Email: [mail cua minh ne](mailto:minh1382005@gmail.com)
 - 🧪 Dự án cá nhân: Đang trong quá trình build!
 
 ---
