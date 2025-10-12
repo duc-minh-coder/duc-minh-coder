@@ -32,3 +32,7 @@
 ---
 
 > 🧠 *"Không ngừng học hỏi - Không ngại thử thách!"*
+>
+> ---
+> ![GitHub Contribution Grid Snake](https://github-readme-activity-graph.vercel.app/graph?username=duc-minh-coder&theme=react-dark)
+
