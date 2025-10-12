@@ -1,7 +1,7 @@
 <h1 align="center">👋 Xin chào! Mình là Đức Minh</h1>
 
 <p align="center">
-  💻 Developer | 🌱 Đang học & phát triển | 🇻🇳 From Vietnam
+  💻 Developer | 🌱 Đang học & phát triển | From Vietnam
 </p>
 
 ---
@@ -16,9 +16,9 @@
 
 ### 🛠️ Tech Stack mình đang học
 
-- ⚙️ Backend: **java**, **Spring Boot**, **MySql**, **MongoDB**, **PostgreSql**
-- 🌐 Frontend: **ReactJS**, **SCSS**, **Tailwind CSS**
-- Khác: c++, python
+- ⚙️ Backend: **java**, **Spring Boot**, **MySql**, **Sql Server**, **PostgreSql**
+- 🌐 Frontend: **ReactJS**, **SCSS**, **Tailwind CSS**, **NextJs**, **TypeScript**
+- Khác: c++, python, javascript, html, css, c#, asp.net
 - 🧰 Công cụ: Git, VS Code, Postman, intellij, ...
 
 ---
