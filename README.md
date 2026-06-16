@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Nguyễn Đức Minh 👋</h1>
 
-<h3 align="center">Co-founder @ Manix.vn | Fullstack Developer | Software Engineer</h3>
+<h3 align="center">Fullstack Developer | Software Engineer</h3>
 
 <p align="center">
   <a href="mailto:minh1382005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
