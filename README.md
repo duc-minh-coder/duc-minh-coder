@@ -13,21 +13,9 @@
 
 Mình là một Lập trình viên Fullstack với định hướng chuyên sâu về hệ thống Backend, hiện đang là sinh viên năm 4 chuyên ngành Công nghệ Thông tin tại **Đại học Mở Hà Nội (HOU)**. Mình đam mê xây dựng các sản phẩm công nghệ thực tế, có kiến trúc mở rộng tốt và tối ưu hóa trải nghiệm người dùng.
 
-- 💼 **Co-founder & Lập trình viên** tại **[Manix.vn](https://manix.vn)** - Nền tảng thương mại điện tử sản phẩm số.
 - 🎯 **Mục tiêu:** Trở thành Senior Backend Developer, phát triển các hệ thống có tính sẵn sàng và độ bảo mật cao.
 - 🌱 **Đang tìm hiểu & Nghiên cứu:** Tích hợp AI (Computer Vision, LLMs) vào luồng xử lý thực tế, bảo mật hệ thống (RBAC) và các giải pháp thanh toán tự động.
 - ⚡ **Sở thích:** Tối ưu hóa hiệu năng hệ thống, viết clean code và cà phê sáng.
-
----
-
-### 🏆 Dự án tiêu biểu
-
-#### 🛒 [Manix.vn](https://manix.vn) - Nền tảng thương mại điện tử số
-*Vai trò: Đồng sáng lập & Fullstack Developer*
-
-Manix là dự án khởi nghiệp thực tế do mình đồng sáng lập và trực tiếp phát triển, chuyên cung cấp các giải pháp và sản phẩm số tự động.
-- 📈 **Thành tựu:** Đạt cột mốc **1.000+ người dùng** tích cực và hơn **800+ sản phẩm** đã được giao dịch thành công.
-- ⚙️ **Kỹ thuật:** Xây dựng kiến trúc hệ thống, tích hợp cổng thanh toán tự động (PayOS, PayPal), và xử lý luồng giao dịch an toàn theo thời gian thực.
 
 ---
 
