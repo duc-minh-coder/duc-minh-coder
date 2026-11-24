@@ -41,12 +41,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-<p>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=duc-minh-coder&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
-</p>
-
 ### 💻 Most Used Languages
 
 <p>
