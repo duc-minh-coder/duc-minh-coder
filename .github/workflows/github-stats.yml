@@ -32,6 +32,13 @@ jobs:
           path: assets/top-langs.svg
           token: ${{ secrets.STATS_TOKEN }}
 
+      - name: Generate GitHub Streak
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=${{ github.repository_owner }}&theme=tokyonight&disable_animations=true
+          path: assets/streak.svg
+          token: ${{ secrets.STATS_TOKEN }}
+
       - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
