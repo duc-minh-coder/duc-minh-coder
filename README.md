@@ -41,10 +41,11 @@
 
 ---
 
-### 💻 Most Used Languages
+### 📊 GitHub Statistics
 
-<p>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duc-minh-coder&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img height="180em" src="./assets/stats.svg" />
+  <img height="180em" src="./assets/top-langs.svg" />
 </p>
 
 ---
